@@ -18,7 +18,8 @@
 # Hello friend!
 
 ### 👨‍💻 About Me
-I'm an aspiring Data Scientist from Switzerland
+I'm an aspiring Data Scientist from Switzerland with an educational background in Health Sciences and Medical Physics.
+Currently, I work in an early-stage FinTech startup in Switzerland 🇨🇭, while pursuing an additonal Masters degree in Applied Data Sciences.
 
 :mailbox: You can reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/-dzingariello-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dzingariello)
 
