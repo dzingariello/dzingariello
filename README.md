@@ -2,26 +2,23 @@
   <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dzingariello">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://twitter.com/dzingariello">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<h1 align="left">Hey there 👋</h1>
+
+###
+
+<p align="left">
+  My name is Dario and I'm an aspiring Data Scientist from Switzerland.
+</p>
+
+<h2 align="left">I mainly code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 </div>
-
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=dzingariello&style=flat-square&color=red" alt=""/>
-</div>
-
-# Hello friend!
-
-### 👨‍💻 About Me
-I'm an aspiring Data Scientist from Switzerland with an educational background in Health Sciences and Medical Physics.
-Currently, I work in an early-stage FinTech startup in Switzerland 🇨🇭, while pursuing an additonal Masters degree in Applied Data Sciences.
-
-:mailbox: You can reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/-dzingariello-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dzingariello)
 
 <!--
 ### :fire: My Stats :
